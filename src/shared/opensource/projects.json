@@ -1,1 +1,95 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=","name":"masterPortfolio","createdAt":"2020-03-06T16:26:54Z","url":"https://github.com/ashutosh1919/masterPortfolio","description":"The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"truvisory","createdAt":"2020-06-03T11:53:55Z","url":"https://github.com/ashutosh1919/truvisory","description":"This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=","name":"ml-data-bot","createdAt":"2020-06-19T14:24:55Z","url":"https://github.com/ashutosh1919/ml-data-bot","description":"Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=","name":"Stock-Prediction-using-LSTM","createdAt":"2018-11-03T05:00:56Z","url":"https://github.com/ashutosh1919/Stock-Prediction-using-LSTM","description":"This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=","name":"Pick-Parser","createdAt":"2019-08-13T13:13:00Z","url":"https://github.com/dsc-iiitdmk/Pick-Parser","description":"This Project is to create a tool which can parse the Resumes and transform them into our own templates","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=","name":"Survival_3D_Game","createdAt":"2019-04-18T17:25:51Z","url":"https://github.com/ashutosh1919/Survival_3D_Game","description":"Survival Game using Unity3D","isFork":false,"languages":[{"name":"C#","iconifyClass":"logos-c-sharp"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Cooper Hewitt API",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "http://ixd.prattsi.org/2020/12/usability-study-cooper-hewitt-api/",
+      "description": "A moderated, remote usability study of the Cooper Hewitt API, completed in partnership with the Cooper Hewitt, Smithsonian Design Museum.",
+      "secondaryDescription": "This study focused on the usability of the Cooper Hewitt API documentation and onboarding experience. Our design recommendations aim to drive additional users to the API by removing hurdles commonly experienced by novice developers.",
+      "tools": "Tools: UserZoom GO, Adobe InDesign",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Declined Transactions Alerts",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://docs.google.com/presentation/d/1vf82170HsLtJ7K_6xj-o6Qc8TuYwqwOWOBHIQxbUo_U/edit?usp=sharing",
+      "description": "Research and implementation of a real-time push notification service for declined point-of-sale debit transactions, completed for Capital One Consumer Bank.",
+      "secondaryDescription": "Release of this product has promoted mobile self-service, alleviated customer frustration, and driven a dramatic reduction of customer service costs.",
+      "tools": "Tools: Python, Snowflake",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "Claims Automation",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://docs.google.com/presentation/d/1eLm9TJJc4XWVRpY8tKx41iY3Ny6ID6_KcwzAp9vkq8Y/edit?usp=sharing",
+      "description": "A modernization of the fraud and disputes claims experience for debit customers, completed for Capital One 360 Checking.",
+      "secondaryDescription": "Implementation of this project has heightened account security, streamlined the claims process, and reduced call volume and wait time.",
+      "tools": "Tools: Angular, HTML/CSS, Google Analytics",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Etsy Search Experience",
+      "createdAt": "2020-06-03T11:53:55Z",
+      "url": "https://drive.google.com/file/d/1w1qDMnXmXA8WarZH_qayg3CRsPBDGew8/view?usp=sharing",
+      "description": "An unmoderated, remote usability study of the Etsy search and checkout experience.",
+      "secondaryDescription": "This study's intent was to evaluate navigation across the site, and our recommendations focused on refining search and shipping information retrieval.",
+      "tools": "Tools: UserTesting, Adobe InDesign",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "Barriers to Financial Literacy",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://drive.google.com/file/d/1D8Kmh2bPfW9yVgr20FE3z88TPqygZ6J-/view?usp=sharing",
+      "description": "A literature-based study of informational barriers to financial literacy and an evaluation of effective financial education.",
+      "secondaryDescription": "This study identified information access, numeracy and literacy, and institutional gatekeeping as major preventers of financial literacy.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "EHR Redesign",
+      "createdAt": "2019-04-18T17:25:51Z",
+      "url": "https://drive.google.com/file/d/1yqvQyulUum2WiCWe9a_UGIiEM4WtewhO/view?usp=sharing",
+      "description": "A human-centered redesign of Vanderbilt University Medical Center's electronic health record (EHR) systems.",
+      "secondaryDescription": "This study analyzed the role of EHRs in primary care physician's formulation of chronic pain care. The design recommendations focus on consolidating patient information and medical history into a single page application.",
+      "isFork": false,
+      "languages": []
+    }
+  ]
+}
